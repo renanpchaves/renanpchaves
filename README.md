@@ -8,8 +8,6 @@ Tenho background em suporte técnico e análise de dados com SQL, e estou expand
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanpchaves&layout=compact&theme=dracula)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
