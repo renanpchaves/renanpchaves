@@ -1,8 +1,8 @@
-# Oi, eu sou o Renan! 👋
+# Prazer, eu sou o Renan! 🦎
 
-Estudante de Análise e Desenvolvimento de Sistemas, estagiário de Service Desk na OceanPact e entusiasta de automação. Atualmente focado em aprender desenvolvimento back-end e construção de APIs.
+Estudante de Análise e Desenvolvimento de Sistemas e estagiário de Service Desk na OceanPact. Tenho background em suporte técnico e análise de dados com SQL, e atualmente estou focado em expandir minhas habilidades em desenvolvimento back-end, automação e construção de APIs.
 
-Tenho background em suporte técnico e análise de dados com SQL, e estou expandindo cada vez mais pro lado do desenvolvimento com análise e sustentação de sistemas.
+Sou entusiasta de tecnologia e busco constantemente evoluir minhas habilidades em desenvolvimento e sustentação de sistemas, sempre buscando a melhoria da eficiência operacional.
 
 ---
 
