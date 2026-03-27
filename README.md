@@ -34,9 +34,7 @@ Atualmente evoluindo em Python, SQL e desenvolvimento de APIs REST, com interess
 
 <div align="center">
 
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanpchaves&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanpchaves&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renanpchaves&layout=compact&theme=tokyonight)
 
 </div>
 
