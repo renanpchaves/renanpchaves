@@ -1,8 +1,11 @@
-# Prazer, eu sou o Renan! 🦎
+# Prazer, me chamo Renan 🦎
 
-Estudante de Análise e Desenvolvimento de Sistemas e estagiário de Service Desk na OceanPact. Tenho background em suporte técnico e análise de dados com SQL, e atualmente estou focado em expandir minhas habilidades em desenvolvimento back-end, automação e construção de APIs.
 
-Sou entusiasta de tecnologia e busco constantemente evoluir minhas habilidades em desenvolvimento e sustentação de sistemas, sempre buscando a melhoria da eficiência operacional.
+💻 Desenvolvedor Full-Stack em formação  
+📊 Foco atual em APIs, automação e integração de sistemas  
+🚀 Estagiário de Service Desk na OceanPact  
+
+Atualmente evoluindo em Python, SQL e desenvolvimento de APIs REST, com interesse em engenharia de dados e automação de processos.
 
 ---
 
@@ -16,6 +19,26 @@ Sou entusiasta de tecnologia e busco constantemente evoluir minhas habilidades e
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## � Projetos Destacados
+
+- **[Darkmoon Records](https://github.com/renanpchaves/darkmoon-records)** - API robusta para descobrir e recomendar albuns.
+- **[Cambio Dashboard](https://github.com/renanpchaves/cambio-dashboard)** - Dashboard de cotação de câmbios em tempo real com FastAPI e JS.
+- **[Tasty Flow](https://github.com/renanpchaves/tasty-flow)** - API Rest de gerenciamento de restaurantes, cardapios e avaliações.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanpchaves&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanpchaves&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
