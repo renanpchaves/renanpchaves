@@ -3,9 +3,9 @@
 
 💻 Desenvolvedor Full-Stack em formação  
 📊 Foco atual em APIs, automação e integração de sistemas  
-🚀 Estagiário de Service Desk na OceanPact  
+🚀 Estagiário de Sistemas(Service Desk) na OceanPact  
 
-Atualmente evoluindo em Python, SQL e desenvolvimento de APIs REST, com interesse em engenharia de dados e automação de processos.
+Atualmente evoluindo em Python, SQL e desenvolvimento de APIs REST.
 
 ---
 
@@ -22,7 +22,7 @@ Atualmente evoluindo em Python, SQL e desenvolvimento de APIs REST, com interess
 
 ---
 
-## � Projetos Destacados
+## 🚀 Projetos Destacados
 
 - **[Darkmoon Records](https://github.com/renanpchaves/darkmoon-records)** - API robusta para descobrir e recomendar albuns.
 - **[Cambio Dashboard](https://github.com/renanpchaves/cambio-dashboard)** - Dashboard de cotação de câmbios em tempo real com FastAPI e JS.
@@ -45,6 +45,7 @@ Atualmente evoluindo em Python, SQL e desenvolvimento de APIs REST, com interess
 - Automação de processos com Python
 - Desenvolvimento back-end e APIs REST
 - Aprofundando SQL e integração de sistemas
+- Iniciando estudos em Segurança da Informação (fundamentos de redes e segurança web)
 
 ---
 ## 📫 Contato
